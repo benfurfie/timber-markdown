@@ -1,0 +1,16 @@
+{
+    "name": "benfurfie/timber-markdown",
+    "description": "This plugin adds a markdown filter to [Timber for WordPress](https://github.com/timber/timber).",
+    "type": "wordpress-muplugin",
+    "require": {
+        "composer/installers": "^1.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ben Furfie",
+            "email": "hello@benfurfie.co.uk"
+        }
+    ],
+    "minimum-stability": "stable"
+}
